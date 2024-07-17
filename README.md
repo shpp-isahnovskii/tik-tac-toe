@@ -1,12 +1,11 @@
 # Tic-Tac-Toe
 
-# Challenge Description
+## Challenge Description
 
-In this challenge, your task is to create a working Tic-Tac-Toe game.
-For those unfamiliar with the game, [here are the rules](https://www.wikihow.com/Play-Tic-Tac-Toe).
+Your task is to create a functional Tic-Tac-Toe game. If you're not familiar with the game, you can find the rules [here](https://www.wikihow.com/Play-Tic-Tac-Toe).
 
 ## Requirements
 
-- The game should allow 2 players on the same device to alternate clicking on the game board to add an X or an O
-- When someone get's 3 in a row, the game should stop and the winner be announced
-- Once the game is finished, the user should be able to start a new game.
+- The game should support 2 players on the same device, allowing them to alternate turns by clicking on the game board to place an X or an O.
+- The game must detect when a player gets 3 in a row, declare the winner, and stop further play.
+- After the game concludes, users should have the option to start a new game.
